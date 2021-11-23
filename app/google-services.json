@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006670813186",
+    "firebase_url": "https://login-f4dbd.firebaseio.com",
+    "project_id": "login-f4dbd",
+    "storage_bucket": "login-f4dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006670813186:android:abd428573379b1fe6faf1b",
+        "android_client_info": {
+          "package_name": "com.example.tareagabrielmateo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006670813186-20iq72hkhjpqb7jetnnv38t6b6vp41aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tareagabrielmateo",
+            "certificate_hash": "9645b8cc426c17858700a5b151796d12cfdb3733"
+          }
+        },
+        {
+          "client_id": "1006670813186-pb10tagfje7ep8en4tg7gluvo2r2k6k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVwm1x8Izj0rL0RhS0NQr_cXClWZ6FJOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006670813186-pb10tagfje7ep8en4tg7gluvo2r2k6k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
